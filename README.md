@@ -1,1 +1,1 @@
-# A project in Data Science, art analysis and machine learning art
+# A project in Data Science, art analytics and machine learning art
