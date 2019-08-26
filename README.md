@@ -9,14 +9,14 @@
    University has subscribed it.Auction records for Vincent Van Gogh, Claude Monet, Edward hopper, Aguste Renoir, Camille        Pissarro,Degas around 3,500. 
 ## Art market data  
    Dwnloaded from Statista
-## Five part:
-   1. Art market visualization
+## Five part in this project:
+### 1. Art market visualization
    Matplotlib and Plotly  
-   2. Art auction prediction model
+### 2. Art auction prediction model
    Linear regression, Decision Tree
-   3.Color cluster using K-means 
-   4.Image style transfer Keras
-   5.Deep convolution generative adversarial network Keras
+### 3.Color cluster using K-means 
+### 4.Image style transfer Keras
+### 5.Deep convolution generative adversarial network Keras
 
 
 
